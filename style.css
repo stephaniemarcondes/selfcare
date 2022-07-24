@@ -1,0 +1,218 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=IBM+Plex+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+body { font-family: 'Lato';}
+
+header {
+    width: 100%;
+    height: 94px;
+    left: 0px;
+    top: 0px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.2);
+
+    display: flex;
+    flex-direction: row;
+}
+
+.estrela {
+
+    width: 19.81px;
+    height: 18.94px;
+    margin-top: 37px;
+    margin-left: 100px;
+}
+
+.logo {
+    font-family: 'Cabin';
+    width: 91.28px;
+    height: 31px;
+    font-weight: 500;
+    font-size: 25.8333px;
+    font-family: 'Cabin';
+    color: #161616;
+    margin-top: 32px;
+    margin-right: 40px;
+}
+
+.lupa {
+
+    height: 35px;
+    margin-top: 32px;
+    margin-left: 900px;
+}
+
+.conta {
+    height: 35px;
+    margin-top: 32px;
+}
+
+.carrinho {
+    height: 35px;
+    margin-top: 32px;
+}
+
+.banner {
+    width: 100%;
+}
+
+.alinhando {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+menu {
+    
+    width: 90%;
+
+height: 1400px;
+}
+
+.barra {
+    border: 0.2px solid #A5A1A1;
+height: 100px;
+display: flex;
+flex-direction: row;
+}
+.promocao {
+
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+margin-top: 40px;
+margin-left: 20px;
+}
+
+.produtos {
+    font-size: 20px;
+    margin-top: 40px;
+    margin-left: 960px; 
+}
+
+.produtoImg {
+    width: 280px;
+height: 280px;
+}
+.folheto {
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 26px;
+
+}
+
+.preco {
+    display: flex;
+    flex-direction: row;
+gap: 3px;}
+.rs {
+
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+}
+
+.verde {
+
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+color: #5CA720;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 120px;
+    margin-right: 20px;
+    margin-top: 50px;
+    gap: 60px;
+}
+
+footer {
+    height: 348px;
+background: #F9F9F9;
+    
+}
+
+.footer-part1 {
+display: flex;
+flex-direction: row;
+padding-top: 50px;
+padding-left: 50px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.area {
+
+    margin-left: 400px;
+}
+
+.palavra {
+    font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+}
+
+.input {
+
+    width: 397px;
+height: 54px;
+left: 821px;
+top: 2134px;
+
+background: #FFFFFF;
+border: 0.5px solid #D9D9D9;
+border-radius: 5px 0px 0px 5px;
+}
+
+.botao {
+
+    width: 152px;
+height: 54px;
+left: 1218px;
+top: 2134px;
+
+background: #5CA720;
+border-radius: 0px 5px 5px 0px;
+
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+color: #FFFFFF;
+
+}
+
+.footer-part2 {
+    width: 100%;
+    padding-top: 100px;
+    padding-left: 50px;
+    display: flex;
+    flex-direction: row;
+}
+
+.pagamento {
+
+    padding-left: 950px;
+    padding-bottom: 50px;
+}
+
+.paypal {
+    margin-bottom: 10px;
+}
+.visa {
+    margin-bottom: 16px;
+}
