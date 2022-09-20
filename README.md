@@ -60,3 +60,7 @@ Imagens estão disponíveis na pasta `./assets`<br>
 - Você também pode adicionar uma "issue" neste repositório mostrando seu resultado final!<br>
 
 Desafio criado por <a href="https://github.com/thaysagomes">Thaysa Gomes</a> :)
+
+<br>
+
+Desafio concluido. Link: https://stephaniemarcondes.github.io/selfcare/
